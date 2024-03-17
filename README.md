@@ -1,7 +1,23 @@
-# GitHub Codespaces ♥️ Jupyter Notebooks
+# Kidney Disease Prediction Model with Machine Learning Algorithms
 
-Welcome to your shiny new codespace! We've got everything fired up and running for you to explore Python and Jupyter notebooks.
+## Objective of the Project 
+The primary objective of creating the kidney disease prediction model is to develop a robust and accurate tool for early detection and risk assessment of heart diseases. By leveraging machine learning algorithms, the model aims to analyze diverse medical parameters and provide timely predictions, enabling proactive healthcare interventions. Ultimately, the goal is to enhance preventive care strategies and contribute to better patient outcomes by identifying potential kidney-related risks in advance.
 
-You've got a blank canvas to work on from a git perspective as well. There's a single initial commit with what you're seeing right now - where you go from here is up to you!
+## Data Source Used
+[https://www.kaggle.com/datasets/mansoordaku/ckdisease]
 
-Everything you do here is contained within this one codespace. There is no repository on GitHub yet. If and when you’re ready you can click "Publish Branch" and we’ll create your repository and push up your project. If you were just exploring then and have no further need for this code then you can simply delete your codespace and it's gone forever.
+## Machine Learning Algorithms Used:
+1. MaxVoting
+2. Logistic Regression
+3. Bagging
+4. Gradient Boosting Classifier
+5. Naïve Bayes
+6. Support Vector Machine (SVM)
+7. K-Nearest Neighbors (KNN)
+8. Random Forest Classifier
+9. Decision Tree Classifier
+
+[Maximum Accuracy achieved: --- (approx) using MaxVoting]
+
+## Website
+
