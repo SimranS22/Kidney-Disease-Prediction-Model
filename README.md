@@ -15,7 +15,6 @@ https://www.kaggle.com/datasets/mansoordaku/ckdisease
 5. Gradient Boosting Classifier
 6. Naïve Bayes Classifier
 7. Logistic Regression
-8. Decision Tree Classifier with GridSearchCV
 
 [Maximum Accuracy achieved: 99% (approx) using Random Forest Classifier]
 
