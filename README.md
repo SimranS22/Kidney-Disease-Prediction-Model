@@ -1,7 +1,7 @@
 # Kidney Disease Prediction Model with Machine Learning Algorithms
 
 ## Objective of the Project 
-The primary objective of creating the kidney disease prediction model is to develop a robust and accurate tool for early detection and risk assessment of kidney diseases. By leveraging machine learning algorithms, the model aims to analyze diverse medical parameters and provide timely predictions, enabling proactive healthcare interventions. Ultimately, the goal is to enhance preventive care strategies and contribute to better patient outcomes by identifying potential kidney-related risks in advance.
+The fundamental aim underlying the development of the kidney disease prediction model is to establish a resilient and precise tool for the early detection and risk evaluation of kidney ailments. Through the utilization of machine learning algorithms, the model endeavors to scrutinize an array of medical parameters, facilitating prompt prognostications and empowering proactive healthcare interventions. Ultimately, the overarching objective resides in fortifying preventive care methodologies and fostering improved patient outcomes by preemptively identifying potential risks associated with kidney disorders.
 
 ## Data Source Used
 https://www.kaggle.com/datasets/mansoordaku/ckdisease
@@ -16,7 +16,8 @@ https://www.kaggle.com/datasets/mansoordaku/ckdisease
 6. Naïve Bayes Classifier
 7. Logistic Regression
 
-[Maximum Accuracy achieved: 99% (approx) using Random Forest Classifier]
+[Maximum Accuracy achieved: 99% (approx) using Gradient Boosting Classifier]
 
 ## Website
 
+https://fictional-spork-xggqpp7v4r629qrp-5000.app.github.dev
