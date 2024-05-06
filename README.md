@@ -19,5 +19,4 @@ https://www.kaggle.com/datasets/mansoordaku/ckdisease
 [Maximum Accuracy achieved: 99% (approx) using Gradient Boosting Classifier]
 
 ## Website
-
-https://fictional-spork-xggqpp7v4r629qrp-5000.app.github.dev
+https://6b22b0b1-5de3-4cb3-a03a-8e5f331465e4-00-3r2xi7lguh1de.janeway.replit.dev/
