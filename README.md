@@ -19,4 +19,4 @@ https://www.kaggle.com/datasets/mansoordaku/ckdisease
 [Maximum Accuracy achieved: 99% (approx) using Gradient Boosting Classifier]
 
 ## Website
-https://6b22b0b1-5de3-4cb3-a03a-8e5f331465e4-00-3r2xi7lguh1de.janeway.replit.dev/
+[https://github.com/SimranS22/KDPMWebsite](https://github.com/SimranS22/KDPMWebsite)
